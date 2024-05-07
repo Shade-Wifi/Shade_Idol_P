@@ -7,9 +7,9 @@
 ```
 Members
 
-* Watashijxxnsuka - 한서준
-* Dammal - 김대휘
-* dydhyun - 안용현
+** Watashijxxnsuka - 한서준 **
+** Dammal - 김대휘 **
+** dydhyun - 안용현 **
 
 ```
 
