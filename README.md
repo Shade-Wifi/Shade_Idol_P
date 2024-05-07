@@ -17,4 +17,6 @@ dydhyun - 안용현
 
 > 1st Project - Shade_Idol_P
 > > 지하 아이돌 프로젝트.
+> >
+> > 
 > > 우리들만의 소통공간.
